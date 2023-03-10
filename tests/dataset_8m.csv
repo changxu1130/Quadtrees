@@ -1,0 +1,3 @@
+footpath_id,address,clue_sa,asset_type,deltaz,distance,grade1in,mcc_id,mccid_int,rlmax,rlmin,segside,statusid,streetid,street_group,start_lat,start_lon,end_lat,end_lon
+16283,Intersection of Queen Street and Franklin Street,Melbourne, CBD, Road Footway,3.02,58.88,19.5,1387657,20922,23.95,20.93,2,1010,18332,-37.80894449,144.9581168,-37.80954791,144.9583916
+16908,Franklin Street between Elizabeth Street and Queen Street,Melbourne, CBD,Road Footway,3.02,58.88,19.5,1387657,21634,23.95,20.93,South,2,644,18332,-37.80894449,144.9581168,-37.80877175,144.9588358

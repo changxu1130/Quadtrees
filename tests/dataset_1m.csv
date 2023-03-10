@@ -1,0 +1,2 @@
+footpath_id,address,clue_sa,asset_type,deltaz,distance,grade1in,mcc_id,mccid_int,rlmax,rlmin,segside,statusid,streetid,street_group,start_lat,start_lon,end_lat,end_lon
+26597,,Carlton,Road Footway,0.19,40.55,213.3,1384211.0,0.0,34.06,33.87,,0.0,0.0,28018.0,-37.79257007846067,144.97001217301388,-37.793209700567324,144.96990429437574
